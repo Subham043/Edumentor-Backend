@@ -1,0 +1,11 @@
+{
+    "name": "Authentications",
+    "alias": "authentications",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Authentications\\Providers\\AuthenticationsServiceProvider"
+    ],
+    "files": []
+}
